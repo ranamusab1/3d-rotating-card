@@ -4,7 +4,7 @@ Welcome to the 3D Rotating Card GitHub repository! This project showcases an int
 
 ## Demo
 
-Before diving into the code, check out the live demo [here](link-to-demo), where you can experience the 3D rotating card in action.
+Before diving into the code, check out the live demo [here](https://github.com/ranamusab1/3d-rotating-card/tree/main), where you can experience the 3D rotating card in action.
 
 ## Features
 
